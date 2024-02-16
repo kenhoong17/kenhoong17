@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 💬 Ask me about game development, multiplayer programming, or anything related to creating engaging and immersive gaming experiences. I love discussing new ideas and collaborating on exciting projects.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn ([insert your LinkedIn profile link here](https://www.linkedin.com/in/kenny-low-80159716b/)) or drop me an email at [kenhoong17@gmail.com]. I'm always open to networking and discussing game development with like-minded individuals.
+📫 How to reach me: Feel free to connect with me on LinkedIn ([https://www.linkedin.com/in/kenny-low-80159716b/]) or drop me an email at [kenhoong17@gmail.com]. I'm always open to networking and discussing game development with like-minded individuals.
